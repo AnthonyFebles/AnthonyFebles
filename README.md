@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anthony's's GitHub stats](https://github-readme-stats-rosy-one-89.vercel.app/api?username=AnthonyFebles&show_icons=true&theme=tokyonight&card_width=500&include_all_commits=true&rank_icon=percentile)
+![Anthony's's GitHub stats](https://github-readme-stats-rosy-one-89.vercel.app/api?username=AnthonyFebles&show_icons=true&theme=tokyonight&card_width=500&include_all_commits=true&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats-rosy-one-89.vercel.app/api/top-langs/?username=AnthonyFebles&layout=compact&theme=dark&card_width=500)
