@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning : 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,git,express,sequelize,sqlite,py,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,git,express,sequelize,sqlite,py,raspberrypi,react,redux)](https://skillicons.dev)
 
 
 
