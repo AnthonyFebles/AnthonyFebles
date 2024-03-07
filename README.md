@@ -3,7 +3,7 @@
 
 
 
-🌱 I’m currently learning : 
+⚡My Skills : 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,jest,git,express,sequelize,sqlite,py,raspberrypi,react,redux,aws,postgres,docker,linux,postman&perline=6)](https://skillicons.dev)
 
