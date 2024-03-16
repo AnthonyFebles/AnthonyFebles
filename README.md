@@ -6,7 +6,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I watch a ton of anime and play co-op games.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anthony-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-febles-43b957228/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anthony-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-febles-43b957228/) [Portfolio](https://anthonyfebles.com/)
 <p align="center">
 
 ---
